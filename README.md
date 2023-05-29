@@ -162,6 +162,5 @@ No known bugs at this time.
 
 ## Authors
 
-Edward Obeng <edwardobdankwah@gmail.com>
-
-Yilkal Desta <abysiniapro@gmail.com>
+- Edward Obeng <edwardobdankwah@gmail.com>
+- Yilkal Desta <abysiniapro@gmail.com>
